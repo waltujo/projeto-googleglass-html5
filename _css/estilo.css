@@ -212,6 +212,14 @@ table#tabelaspec caption span {
     margin-top: 10px;
 }
 
+video#filme-index {
+    display: block;
+    position: relative;
+    left: 0px;
+    top: -10px;
+    width: 550px;
+}
+
 aside#lateral {
     display: block;
     width: 400px;
